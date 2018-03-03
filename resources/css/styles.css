@@ -1,0 +1,59 @@
+* {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+.header {
+  font-weight: bold;
+  color: white;
+  background-image: url("../images/the-flatiron-building.png");
+}
+
+#aboutus h2 {
+  font-size: 23px;
+}
+
+.header h1 {
+  font-size: 70px;
+}
+
+a:link, a:visited {
+  font-size: 18px;
+  color: white;
+}
+
+#process {
+  font-weight: bold;
+}
+
+#process h2{
+  font-size: 32px;
+}
+
+#process h3 {
+  font-size: 23px;
+}
+
+#process p {
+  font-size: 14px;
+}
+
+/* yes this is wrong to duplicate but leaving for now */
+#aboutus {
+  font-weight: bold;
+}
+
+#aboutus h2 {
+  font-size: 23px;
+}
+
+#aboutus p {
+  font-size: 14px;
+}
+
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
